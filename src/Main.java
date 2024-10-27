@@ -19,4 +19,5 @@ public class Main {
         station.check(bicycle);
         station.check(bicycle2);
     }
+
 }
